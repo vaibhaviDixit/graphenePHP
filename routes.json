@@ -1,0 +1,42 @@
+{
+  "": {
+    "path": "views/index.php"
+  },
+  "test": {
+    "path": "views/test.php"
+  },
+  "user/{username}": {
+    "path": "views/test.php"
+  },
+  "login": {
+    "path": "views/auth/login.php"
+  },
+  "register": {
+    "path": "views/auth/register.php"
+  },
+  "logout": {
+    "path": "views/auth/logout.php"
+  },
+  "migrate" : {
+    "path" : "views/migrate.php"
+  },
+  "api/example": {
+    "path": "views/api/example.php"
+  },
+  "api/logs": {
+    "path": "views/api/logs.php"
+  },
+  "api/test": {
+    "path": "views/api/test.php"
+  },
+
+  "api/login": {
+    "path": "views/api/login.php"
+  },
+  "api/logout": {
+    "path": "views/api/logout.php"
+  },
+  "api/routes": {
+    "path": "views/api/routes.php"
+  }
+}
